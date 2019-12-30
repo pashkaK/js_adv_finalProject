@@ -1,0 +1,75 @@
+body {
+	background: url(https://gameranx.com/wp-content/uploads/2019/08/Star-Wars-Jedi-Fallen-Order-4K-Wallpaper-.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: 'Kulim Park', sans-serif;
+	font-size: 22px;
+}
+.liElement {
+	width: 200px;
+	color: #fff;
+	font-size: 22px;
+}
+.liElement:hover {
+	color: #644AB8;
+	transition: 0.15s;
+}
+#backToList {
+	visibility: hidden;
+}
+table {
+	margin: 20px auto;
+	padding: 15px;
+}
+.buttons {
+	display: flex;
+	justify-content: center;
+	margin: 20px auto;
+}
+.liElement {
+	font-size: 24px;
+	margin: 0px 518px auto;
+	color: #AB3EA7;
+}
+#previous {
+	margin: 5px;
+	font-size: 18px;
+	padding: 5px;
+	background: #C4A7BE;
+	color: #241717;
+	border: 0px;
+	border-radius: 5px;
+}
+#next {
+	margin: 5px;
+	font-size: 18px;
+	padding: 5px;
+	background: #C4A7BE;
+	color: #241717;
+	border: 0px;
+	border-radius: 5px;
+}
+#previous:hover {
+	color: #644AB8;
+	transition: 0.15s;
+	cursor: pointer;
+}
+#next:hover {
+	color: #644AB8;
+	transition: 0.15s;
+	cursor: pointer;
+}
+#backToList {
+	margin: 5px;
+	font-size: 18px;
+	padding: 5px;
+	background: #C4A7BE;
+	color: #241717;
+	border: 0px;
+	border-radius: 5px;
+}
+#backToList:hover {
+	color: #644AB8;
+	transition: 0.15s;
+	cursor: pointer;
+}
